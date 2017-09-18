@@ -9,8 +9,11 @@ p {
     color: brown;
     font-style: italic;
 }
-
 .img-small {
     width:300px;
     height:230px;
 } 
+.banana {
+    color: darkblue;
+    font-weight: bold;
+}
